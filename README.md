@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Proyect Clone`
 
-In the console git clone [https://github.com/marco5x/boilerplate-react-pwa]
+In the console git clone [https://github.com/marco5x/boilerplate-react-pwa.git]
 
 ### `Install dependencies`
 
