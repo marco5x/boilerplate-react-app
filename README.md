@@ -24,14 +24,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Active service worker
+### `Active service worker`
 
-## In index.js serviceWorkerRegistration.unregister()
-## Change for serviceWorkerRegistration.register()
+### In index.js serviceWorkerRegistration.unregister()
 
-# npm/yarn run build
-# npm/yarn install -g serve
+### Change for serviceWorkerRegistration.register()
+
+npm/yarn run build
+
+npm/yarn install -g serve
 
 npm/yarn run server
 
-🚀 Ready!!
+# 🚀 Ready!!
