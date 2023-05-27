@@ -29,8 +29,9 @@ You may also see any lint errors in the console.
 ## In index.js serviceWorkerRegistration.unregister()
 ## Change for serviceWorkerRegistration.register()
 
-npm/yarn run build
+# npm/yarn run build
+# npm/yarn install -g serve
 
-npm/yarn start
+npm/yarn run server
 
 🚀 Ready!!
